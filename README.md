@@ -45,6 +45,7 @@ The model performs well in identifying benign cases, while maintaining strong pe
 
 
 Confusion Matrix
+<img src="https://Confusion matrix.png" alt="Alt text" width="50%" height="50%">
 Correlation Heatmap
 Class Distribution
 ⚠️ Future Improvements
