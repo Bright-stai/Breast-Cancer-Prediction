@@ -49,7 +49,7 @@ Confusion Matrix
 Correlation Heatmap
 ![Breast Cancer Prediction App](Correlation-Heatmap.png)
 Class Distribution
-![Breast Cancer Prediction App](Class-Distribution.png)
+![Breast Cancer Prediction App](Class_Distribution.png)
 ⚠️ Future Improvements
 Try Decision Tree & Random Forest
 Handle class imbalance
