@@ -45,9 +45,11 @@ The model performs well in identifying benign cases, while maintaining strong pe
 
 
 Confusion Matrix
-<img src="https://Confusion matrix.png" alt="Alt text" width="50%" height="50%">
+![Breast-Cancer-Prediction App](Confusion-Matrix.png)
 Correlation Heatmap
+![Breast Cancer Prediction App](Correlation-Heatmap.png)
 Class Distribution
+![Breast Cancer Prediction App](Class-Distribution.png)
 ⚠️ Future Improvements
 Try Decision Tree & Random Forest
 Handle class imbalance
